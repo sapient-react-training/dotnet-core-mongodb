@@ -1,0 +1,4 @@
+is_global = true
+build_property.RootNamespace = BookStoreApi
+build_property.ProjectDir = F:\Core-dotnet\sapient\BookStoreApi\
+build_property.EnableComHosting = 
